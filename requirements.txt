@@ -9,7 +9,7 @@ aiofiles
 asyncio
 pycurl
 humanize
-
+get_video_info
 cryptg
 telethon
 python-decouple
